@@ -1,0 +1,9 @@
+/.vscode
+/output
+dico.o
+Dico.txt
+Fonctions.o
+main.o
+Makefile.win
+Pendu.dev
+Pendu.layout
